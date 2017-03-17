@@ -1,4 +1,4 @@
 # Git_test
-Test_purpose
+Use this folder structure for git version control
 
-Adjusting Readme file
+
